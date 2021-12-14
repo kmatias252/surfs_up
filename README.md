@@ -6,13 +6,15 @@ The purpose of this analysis is to provide W. Avy with a statistical analysis of
 
 ## Results:
 
-Deliverable 1: Determine the Summary Statistics for June
+### Deliverable 1: Determine the Summary Statistics for June
 
 *
 *
 *
 
-Deliverable 2: Determine the Summary Statistics for December
+<img width="136" alt="Screen Shot 2021-12-13 at 11 04 52 PM" src="https://user-images.githubusercontent.com/91925639/145931228-38bd2d6e-c39d-4fd0-863e-acd8c2fe9ec2.png">
+
+### Deliverable 2: Determine the Summary Statistics for December
 
 *
 *
