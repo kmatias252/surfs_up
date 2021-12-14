@@ -23,3 +23,6 @@ The purpose of this analysis is to provide W. Avy with a statistical analysis of
 * The minimum temperature in December was 56 degrees. 
 
 <img width="137" alt="Screen Shot 2021-12-13 at 11 07 29 PM" src="https://user-images.githubusercontent.com/91925639/145931440-c3bac57b-d71c-4d1b-a496-98e8f668bfe7.png">
+
+## Summary:
+
