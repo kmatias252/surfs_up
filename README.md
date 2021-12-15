@@ -26,3 +26,5 @@ The purpose of this analysis is to provide W. Avy with a statistical analysis of
 
 ## Summary:
 
+Based on our analysis we can conclude that opening a surf and ice cream shop would be a sustainable year-round business in Oahu given that temperatures do not vary much in June versus December. To provide W. Avy with additional weather data on Oahu we could perform the various queries to help decide if they should proceed with this business venture. The additional queries could provide precipitation information which could help us decide if Oahu has a rainy season that deters tourism. Another possible query could be temperature or weather over the years to eliminate any anomalies in our weather statistics. Our query would look similar to the one below that we did for temperature but we would substitute temperature with the variable we wanted to investigate further. 
+
